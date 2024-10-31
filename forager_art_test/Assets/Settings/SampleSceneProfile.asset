@@ -12,9 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e6a3ee18a776a042ae5901da5d087e2, type: 3}
   m_Name: PixelateSettings
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   pixelSize:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
 --- !u!114 &-7893295128165547882
 MonoBehaviour:
@@ -28,7 +28,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
   m_Name: Bloom
   m_EditorClassIdentifier: 
-  active: 1
+  active: 0
   skipIterations:
     m_OverrideState: 0
     m_Value: 1
@@ -167,13 +167,13 @@ MonoBehaviour:
     m_Value: 1
   colorLevels:
     m_OverrideState: 1
-    m_Value: 22
+    m_Value: 8
   ditherType:
     m_OverrideState: 1
     m_Value: 0
   dithering:
     m_OverrideState: 1
-    m_Value: 0.066
+    m_Value: 0.08
   downsampling:
     m_OverrideState: 1
     m_Value: 1
